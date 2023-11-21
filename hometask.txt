@@ -1,1 +1,13 @@
 Ничем не отличаеться
+
+init
+heat added
+boots
+README added
+dots
+fix readme
+
+Merge branch 'buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+Merge branch 'hat'
+hometask added
